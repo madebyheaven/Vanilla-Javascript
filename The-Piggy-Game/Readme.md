@@ -18,7 +18,7 @@ The game of Pig is a very simple jeopardy dice game in which two players race to
 ## Screenshots
 - Roll Dice button generates a random dice.
 - Current - Adds each dice rolls till the dice roll gets 1.
-- At Player 1 - score get displayed only when the hold button is clicked.
+- At Player div - score get displayed only when the hold button is clicked.
 - New Game - Reset the game
 
 ![App Screenshot](https://i.postimg.cc/FHVcrSyZ/1111111.png)
